@@ -156,7 +156,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-**Your Name**  
+**Prashant Shukla**  
 📧 Email: prashantshukla8851@gmail.com
 💼 LinkedIn: [Prashant Shukla](https://www.linkedin.com/in/prashant-shukla-58ba19373) 
 
